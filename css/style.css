@@ -1103,3 +1103,10 @@ margin-top: 8px;
   font-size: 13px;
   color: #fff;
 }
+
+.princi-name:hover {
+  background-color: #64f048;
+  /* color: #ddd; */
+  border-radius: 30px;
+  transition: 0.3s;
+}
