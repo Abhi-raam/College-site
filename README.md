@@ -1,3 +1,3 @@
 # College-site
 
-This website address is : https://gsclg.netlify.app/
+This website address is : https://gscet.netlify.app/
